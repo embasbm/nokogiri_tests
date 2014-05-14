@@ -1,0 +1,16 @@
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/
+TODO*
+imtk
+config/database.yml
+
+
+
+# 	Let me know what do you think about this, signed: Emba, 
+#	acording to stackoverflow is good and not good, 
+#	because the server may someday need our vendor folder work 
+#	beeing updated, but this is not the case, isn't it?
+
+vendor
